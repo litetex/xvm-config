@@ -10,7 +10,7 @@
   // The settings correspond to the extra fields parameters.
   // Настройки соответствуют параметрам дополнительных полей.
   "mapSize": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 0,
     "alpha": 70,
