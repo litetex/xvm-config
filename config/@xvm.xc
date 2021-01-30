@@ -50,15 +50,15 @@
   "definition": {
     // Config author.
     // Автор конфига.
-    "author": "XVM Team",
+    "author": "litetex",
 
     // Config description.
     // Описание конфига.
-    "description": "Default settings for XVM",
+    "description": "Default settings for litetex",
 
     // Address to config updates.
     // Адрес, где выкладываются обновления конфига.
-    "url": "https://modxvm.com/",
+    "url": "https://github.com/litetex/xvm_config",
 
     // Supported version of the game.
     // Поддерживаемая версия игры.

@@ -67,7 +67,7 @@
     "labelsEnabled": true,
     // false - use standard lines.
     // false - использовать стандартные линии.
-    "linesEnabled": true,
+    "linesEnabled": false,
     // Minimap labels.
     // Надписи на миникарте.
     "labels": ${"minimapLabels.xc":"labels"},

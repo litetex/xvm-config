@@ -12,7 +12,7 @@
     "showTotalExperience": true,
     // true - display crew experience in first page.
     // true - отображать опыт экипажа на первой странице.
-    "showCrewExperience": false,
+    "showCrewExperience": true,
     // true - display net income of credits in first page.
     // true - отображать чистый доход на первой странице.
     "showNetIncome": true,
@@ -30,7 +30,7 @@
     "bonusState": {
       // false - disable.
       // false - отключить.
-      "enabled": true,
+      "enabled": false,
       // Offset panel of X axis.
       // Смещение панели по оси X.
       "offsetX": 25,
