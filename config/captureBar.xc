@@ -6,7 +6,7 @@
   "captureBar": {
     // false - disable.
     // false - отключить.
-    "enabled": true,
+    "enabled": false,
     // Y value (34 for vanilla client).
     // Значение Y (34 для чистого клиента).
     "y": 65,
