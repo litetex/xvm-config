@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/40789489/106369491-386bf780-6352-11eb-8cad-c760d7f694b1.png" height=36 alt="Logo"></img> litetex's XVM config
+# <img src="https://user-images.githubusercontent.com/40789489/106369491-386bf780-6352-11eb-8cad-c760d7f694b1.png" height=32 alt="Logo"></img> litetex's XVM config
 Looks like normal WOT with minor improvements.
 
 ## [Download](https://downgit.github.io/#/home?url=https://github.com/litetex/xvm_config/tree/master/config)
