@@ -30,7 +30,9 @@ ${"<configName>/@xvm.xc":"."}
   * Shows how long it takes to repair a module, e.g. tracks, engine, ...
   * Disabled dogtags
   * Shows current time (upper left corner)
-* Shows stats of players (when network mode is enabled)
+  * Shows stats of players (when networking mode is enabled)
+* Service record
+  * More/Improved statistics (when networking mode is enabled)
 * Battle-Results
   * Better summary/Shows crew experience
 * Minimap 
