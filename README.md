@@ -5,7 +5,7 @@ Looks like normal WOT with minor improvements.
 If the above link doesn't work, try [downloading the repository as zip](https://github.com/litetex/xvm_config/archive/master.zip) and use the ``config`` folder
 
 ### Quick setup guide
-* Requires [XMV](https://modxvm.com)
+* Requires [XMV](https://modxvm.com/en/download-xvm/)
 * Download the config and install it in ``<WorldOfTanksInstallationDirectory>/res_mods/config/xvm/<configName>``
 * Create/Override the ``<WorldOfTanksInstallationDirectory>/res_mods/config/xvm/xvm.xc`` file with the following content:
 ```
