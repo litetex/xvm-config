@@ -2,7 +2,7 @@
 Looks like normal WOT with minor improvements.
 
 ## [Download](https://downgit.github.io/#/home?url=https://github.com/litetex/xvm_config/tree/master/config)
-If the above link doesn't work, try [download the repository as zip](https://github.com/litetex/xvm_config/archive/master.zip) and use the config folder
+If the above link doesn't work, try [download the repository as zip](https://github.com/litetex/xvm_config/archive/master.zip) and use the ``config`` folder
 
 ### Quick setup guide
 * Requires [XMV](https://modxvm.com)
@@ -16,8 +16,8 @@ ${"<configName>/@xvm.xc":"."}
 * Login 
   * Automatic login
 * Hangar 
-  * Clean interface
-    * No Referral Button
+  * Cleaner interface
+    * No referral Button
     * No daily quests visible
     * No "Combat Intelligence" / news messages
   * Crew auto return
@@ -28,7 +28,7 @@ ${"<configName>/@xvm.xc":"."}
 * Battle 
   * Shows last seen HP status of allies and enemies (when pressing the alt key)
   * Shows how long it takes to repair a module, e.g. tracks, engine, ...
-  * Disabled dogtags
+  * Disables dogtags
   * Shows current time (upper left corner)
   * Shows stats of players (when networking mode is enabled)
 * Service record
