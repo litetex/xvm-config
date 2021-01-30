@@ -12,7 +12,7 @@
     "showPostmortemTips": true,
     // false - disable pop-up panel with enemy's dog tag.
     // false - отключить всплывающую внизу панель с личным жетоном противника.
-    "showPostmortemDogTag": true,
+    "showPostmortemDogTag": false,
     // false - disable battle hints.
     // false - отключить подсказки в бою.
     "showBattleHint": true,
@@ -28,7 +28,7 @@
     "clanIconsFolder": "clanicons/",
     // Path to sixth sense icon ("" for original icon).
     // Путь к иконке 6-го чувства ("" для оригинальной иконки).
-    "sixthSenseIcon": "xvm://res/SixthSense.png",
+    "sixthSenseIcon": "",
     // Duration of the sixth sense indicator (msec).
     // Длительность отображения индикатора 6-го чувства (мсек).
     "sixthSenseDuration": 2000,
