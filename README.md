@@ -40,7 +40,7 @@ ${"<configName>/@xvm.xc":"."}
   * Custom circles with more friendly colors
 
 ## Example views
-*Note: Network services are enable in the screenshot*
+*Note: Network services are enabled in the screenshots*
 
 ![garage](https://user-images.githubusercontent.com/40789489/106368212-474dac80-6348-11eb-87fb-72d3ae0351ee.png "Garage")
 
