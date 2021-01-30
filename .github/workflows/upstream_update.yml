@@ -20,7 +20,7 @@ jobs:
       - name: Pull Detached Remote
         uses: litetex/pull-detached-remote@v0.2
         with:
-          upstreamrepo: https://github.com/xvmconfigs/xvm_default_config
+          upstreamrepo: https://github.com/xvmconfigs/xvm-default-config
           upstreambranch: master
           prassignees: litetex
           prlabels: upstream
