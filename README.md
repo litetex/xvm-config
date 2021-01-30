@@ -14,5 +14,5 @@ Looks like normal WOT with minor improvements
 ![battle_basecap](https://user-images.githubusercontent.com/40789489/106368210-44eb5280-6348-11eb-8098-d391870fcd17.png "Battle - Base capture")
 ![battle_advanced_info](https://user-images.githubusercontent.com/40789489/106368208-43ba2580-6348-11eb-821a-ac03421dab5f.png "Battle - Overview (Tab key)")
 
-![techtree](https://user-images.githubusercontent.com/40789489/106368216-49b00680-6348-11eb-828e-22dadd24d071.png "Techtree")
+![techtree](https://user-images.githubusercontent.com/40789489/106368605-3e120f00-634b-11eb-9af5-0bbf899c6e94.png "Techtree")
 ![service_record_vehicles](https://user-images.githubusercontent.com/40789489/106368215-487ed980-6348-11eb-85ec-449feb8804f0.png "Service record")
