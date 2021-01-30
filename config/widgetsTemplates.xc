@@ -8,7 +8,7 @@
   "clock": {
     // true - show widget.
     // true - показывать виджет.
-    "enabled": true,
+    "enabled": false,
     // Layer - "bottom", "normal" (default), "top".
     // Слой - "bottom", "normal" (по-умолчанию), "top".
     "layer": "normal",
@@ -58,7 +58,7 @@
   // Statistics widget in hangar.
   // Виджет статистики в ангаре.
   "statistics": {
-    "enabled": true,
+    "enabled": false,
     "layer": "normal",
     "type": "extrafield",
     "formats": [
