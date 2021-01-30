@@ -2,7 +2,7 @@
 Looks like normal WOT with minor improvements.
 
 ## [Download](https://downgit.github.io/#/home?url=https://github.com/litetex/xvm_config/tree/master/config)
-If the above link doesn't work, try [download the repository as zip](https://github.com/litetex/xvm_config/archive/master.zip) and use the ``config`` folder
+If the above link doesn't work, try [downloading the repository as zip](https://github.com/litetex/xvm_config/archive/master.zip) and use the ``config`` folder
 
 ### Quick setup guide
 * Requires [XMV](https://modxvm.com)
