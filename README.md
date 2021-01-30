@@ -1,8 +1,41 @@
 # litetex's XVM config
-Looks like normal WOT with minor improvements
+Looks like normal WOT with minor improvements.
 
 ## [Download](https://downgit.github.io/#/home?url=https://github.com/litetex/xvm_config/tree/master/config)
 If the above link doesn't work, try [download the repository as zip](https://github.com/litetex/xvm_config/archive/master.zip) and use the config folder
+
+### Quick setup guide
+* Requires [XMV](https://modxvm.com)
+* Download the config and install it in ``<WorldOfTanksInstallationDirectory>/res_mods/config/xvm/<configName>``
+* Create/Override the ``<WorldOfTanksInstallationDirectory>/res_mods/config/xvm/xvm.xc`` file with the following content:
+```
+${"<configName>/@xvm.xc":"."}
+```
+
+## Features
+* Login 
+  * Automatic login
+* Hangar 
+  * Clean interface
+    * No Referral Button
+    * No daily quests visible
+    * No "Combat Intelligence" / news messages
+  * Crew auto return
+  * Blocks the vehicle if ammo is low
+  * Statistics for tanks
+* Tank tooltips (Hangar/Techtree)
+  * More information when hovering over the tank, e.g. speedlimit, terrain resistance, crewroles, ...
+* Battle 
+  * Shows last seen HP status of allies and enemies (when pressing the alt key)
+  * Shows how long it takes to repair a module, e.g. tracks, engine, ...
+  * Disabled dogtags
+  * Shows current time (upper left corner)
+* Shows stats of players (when network mode is enabled)
+* Battle-Results
+  * Better summary/Shows crew experience
+* Minimap 
+  * Adds proxy spot (=50m) circle
+  * Custom circles with more friendly colors
 
 ## Example views
 *Note: Network services are enable in the screenshot*
