@@ -13,8 +13,6 @@ ${"<configName>/@xvm.xc":"."}
 ```
 
 ## Features
-* Login 
-  * Automatic login
 * Hangar 
   * Cleaner interface
     * No referral Button
@@ -27,7 +25,6 @@ ${"<configName>/@xvm.xc":"."}
   * More information when hovering over the tank, e.g. speedlimit, terrain resistance, crewroles, ...
 * Battle 
   * Shows last seen HP status of allies and enemies (when pressing the alt key)
-  * Shows how long it takes to repair a module, e.g. tracks, engine, ...
   * Disables dogtags
   * Shows current time (upper left corner)
   * Shows stats of players (when networking mode is enabled)
