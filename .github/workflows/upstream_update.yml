@@ -18,12 +18,13 @@ jobs:
         run: git fetch --prune --unshallow
       # Pull the detached remote and do the magic
       - name: Pull Detached Remote
-        uses: litetex/pull-detached-remote@v0.2
+        uses: litetex/pull-detached-remote@v0.3
         with:
           upstreamrepo: https://github.com/xvmconfigs/xvm-default-config
           upstreambranch: master
           prassignees: litetex
           prlabels: upstream
+          ignoreprotocol: 1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_PAT: ${{ secrets.GH_PAT }}
