@@ -21,7 +21,7 @@
     // Log of applied damage (see hitLog.xc).
     // Лог нанесенного урона (см. hitLog.xc).
     "hitLogBody": {
-      "enabled": true,
+      "enabled": false,
       "updateEvent": "PY(ON_HIT_LOG), ON_PANEL_MODE_CHANGED",
       "x": "{{pp.mode=0?{{battletype-key=epic_battle?240|5}}|{{py:sum({{pp.widthLeft}},{{py:xvm.hitLog.log.x}})}}}}",
       "y": "{{pp.mode=0?{{battletype-key=epic_battle?80|90}}|{{py:xvm.hitLog.log.y}}}}",
@@ -47,7 +47,7 @@
     // Panel with total player efficiency.
     // Панель с общей эффективностью игрока.
     "totalEfficiency": {
-      "enabled": true,
+      "enabled": false,
       "updateEvent": "PY(ON_TOTAL_EFFICIENCY), ON_PANEL_MODE_CHANGED",
       "x": "{{pp.mode=0?{{battletype-key=epic_battle?240|5}}|{{py:sum({{pp.widthLeft}},50)}}}}",
       "y": "{{pp.mode=0?{{battletype-key=epic_battle?55|65}}|35}}",
@@ -72,7 +72,7 @@
     // Avg damage on current vehicle.
     // Средний урон на текущей технике.
     "avgDamage": {
-      "enabled": true,
+      "enabled": false,
       "updateEvent": "PY(ON_TOTAL_EFFICIENCY)",
       "x": -170,
       "y": 45,
@@ -85,7 +85,7 @@
     // Threshold necessary for achievements "High caliber".
     // Порог необходимый для получения достижения "Основной калибр".
     "mainGun": {
-      "enabled": true,
+      "enabled": false,
       "updateEvent": "PY(ON_TOTAL_EFFICIENCY)",
       "x": 170,
       "y": 45,
@@ -97,7 +97,7 @@
     // Log of the received damage (see damageLog.xc).
     // Лог полученного урона (см. damageLog.xc).
     "damageLog": {
-      "enabled": true,
+      "enabled": false,
       "updateEvent": "PY(ON_HIT)",
       "x": "{{py:xvm.damageLog.log.x}}",
       "y": "{{py:xvm.damageLog.log.y}}",

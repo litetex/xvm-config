@@ -112,6 +112,7 @@
       "chassisRotationSpeed",
       "enginePowerPerTon",
       "speedLimits",
+      "terrainResistance",
       "crewRolesIcons"
     ],
     // Substitutions for tank destroyers.
@@ -139,6 +140,7 @@
       "chassisRotationSpeed",
       "enginePowerPerTon",
       "speedLimits",
+      "terrainResistance",
       "crewRolesIcons"
     ],
     // Substitutions for SPG.
