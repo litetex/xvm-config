@@ -33,7 +33,6 @@ ${"<configName>/@xvm.xc":"."}
 * Battle-Results
   * Better summary/Shows crew experience
 * Minimap 
-  * Adds proxy spot (=50m) circle
   * Custom circles with more friendly colors
 
 ## Example views
