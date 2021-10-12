@@ -54,7 +54,7 @@
   "hitLog": {
     // false - disable.
     // false - отключить.
-    "enabled": true,
+    "enabled": false,
     // true - show damage by oneself.
     // true - отображать урон по себе.
     "showSelfDamage": true,

@@ -6,7 +6,7 @@
  */
 {
   "sounds": {
-    "enabled": true,
+    "enabled": false,
     // true - to enable remote communication between WoT client and WWISE Authoring Tools.
     // true - для включения коммуникации между клиентом WoT и WWISE Authoring Tools.
     "remote_communication": false,

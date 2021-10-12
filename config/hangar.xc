@@ -18,22 +18,22 @@
     "showBattleTypeSelectorText": true,
     // true - show "Referral Program" button.
     // true - показать кнопку "Реферальная программа".
-    "showReferralButton": true,
+    "showReferralButton": false,
     // true - show "General chat" button.
     // true - показать кнопку "Общий чат".
     "showGeneralChatButton": true,
     // false - disable display promo of premium vehicle (on the background in the hangar).
     // false - отключить отображение рекламы премиум техники (на фоне в ангаре).
-    "showPromoPremVehicle": true,
+    "showPromoPremVehicle": false,
     // true - show info windows with the battle results in the "Ranked battle" mode.
     // true - показывать информационное окно результатов боя в режиме "Ранговый бой".
     "showRankedBattleResults": true,
     // true - show info windows when receiving progressive decals.
     // true - показывать информационное окно при получении этапной декали.
-    "showProgressiveDecalsWindow": true,
+    "showProgressiveDecalsWindow": false,
     // true - show widget "Daily Quests" in the hangar.
     // true - показывать виджет "Ежедневные задачи" в ангаре.
-    "showDailyQuestWidget": true,
+    "showDailyQuestWidget": false,
     // true - show banner of various events in the hangar.
     // true - показывать баннер различных событий в ангаре.
     "showEventBanner": true,
@@ -42,10 +42,10 @@
     "combatIntelligence": {
       // false - disable display pop-up messages in the hangar.
       // false - отключить отображение всплывающих сообщений в ангаре.
-      "showPopUpMessages": true,
+      "showPopUpMessages": false,
       // false - disable display unread notifications counter in the menu.
       // false - отключить отображение счетчика непрочитанных уведомлений в меню.
-      "showUnreadCounter": true
+      "showUnreadCounter": false
     },
     // Parameters of the "Session statistics" button.
     // Параметры кнопки "Сессионная статистика".
@@ -153,10 +153,10 @@
     },
     // true - make vehicle not ready for battle if low ammo.
     // true - сделать машину не готовой к битве если мало снарядов.
-    "blockVehicleIfLowAmmo": false,
+    "blockVehicleIfLowAmmo": true,
     // Below this percentage, ammo is low. (0 - 100)
     // Ниже этого процента, снарядов считается мало. (0 - 100)
-    "lowAmmoPercentage": 20,
+    "lowAmmoPercentage": 50,
     // Behavior of the system channel notifications button on new notifications:
     //   none  - do nothing;
     //   blink - blink button;

@@ -67,7 +67,7 @@
     "labelsEnabled": true,
     // false - use standard lines.
     // false - использовать стандартные линии.
-    "linesEnabled": true,
+    "linesEnabled": false,
     // false - use standard the number of hit points (HP) vehicle.
     // false - использовать стандартное количество очков прочности (HP) техники.
     "healthPointsEnabled": false,
