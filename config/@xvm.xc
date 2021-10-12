@@ -58,19 +58,7 @@
 
     // Address to config updates.
     // Адрес, где выкладываются обновления конфига.
-    "url": "https://github.com/litetex/xvm_config",
-
-    // Supported version of the game.
-    // Поддерживаемая версия игры.
-    "gameVersion": "1.14.0.0",
-
-    // The minimum required version of the XVM mod.
-    // Минимально необходимая версия мода XVM.
-    "modMinVersion": "8.8.2",
-
-    // Config last modified.
-    // Дата последней модификации конфига.
-    "date": "02.08.2021"
+    "url": "https://github.com/litetex/xvm_config"
   },
 
   // Parameters for login screen.
