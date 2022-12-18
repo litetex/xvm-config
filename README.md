@@ -8,9 +8,9 @@ If the above link doesn't work, try [downloading the repository as zip](https://
 * Requires [XMV](https://modxvm.com/en/download-xvm/)
 * Download the config and install it in ``<WorldOfTanksInstallationDirectory>/res_mods/config/xvm/<configName>``
 * Create/Override the ``<WorldOfTanksInstallationDirectory>/res_mods/config/xvm/xvm.xc`` file with the following content:
-```
-${"<configName>/@xvm.xc":"."}
-```
+  ```xc
+  ${"<configName>/@xvm.xc":"."}
+  ```
 
 ## Features
 * Hangar 
