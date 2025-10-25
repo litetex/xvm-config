@@ -49,9 +49,6 @@
     // true - show event tournaments widget in hangar.
     // true - показывать виджет ивентовых турниров в ангаре.
     "showEventTournamentWidget": true,
-    // true - show elite levels widget in the hangar.
-    // true - показывать виджет уровней элитности в ангаре.
-    "showHangarPrestigeWidget": true,
     // true - show elite levels widget in the profile for vehicle statistics.
     // true - показывать виджет уровней элитности в профиле для статистики техники.
     "showProfilePrestigeWidget": true,
@@ -204,8 +201,8 @@
       "updateInterval": 10000,
       // Axis field coordinates.
       // Положение поля по осям.
-      "x": 85,
-      "y": 52,
+      "x": 50,
+      "y": 70,
       // Horizontal alignment of field at screen ("left", "center", "right").
       // Горизонтальное выравнивание поля на экране ("left", "center", "right").
       "hAlign": "left",
@@ -313,11 +310,11 @@
       "enabled": false,
       // Axis field coordinates.
       // Положение поля по осям.
-      "x": -3,
-      "y": 51,
+      "x": 50,
+      "y": 108,
       // Horizontal alignment of field at screen ("left", "center", "right").
       // Горизонтальное выравнивание поля на экране ("left", "center", "right").
-      "hAlign": "right",
+      "hAlign": "left",
       // Vertical alignment of field at screen ("top", "center", "bottom").
       // Вертикальное выравнивание поля на экране ("top", "center", "bottom").
       "vAlign": "top",
